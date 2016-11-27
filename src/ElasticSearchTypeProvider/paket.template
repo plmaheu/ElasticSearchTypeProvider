@@ -1,0 +1,25 @@
+type project
+title
+    ElasticSearchTypeProvider
+owners
+    Author not set
+authors 
+    Author not set
+projectUrl
+    https://github.com/plmaheu/ElasticSearchTypeProvider/plmaheu/ElasticSearchTypeProvider
+iconUrl
+    https://raw.githubusercontent.com/plmaheu/ElasticSearchTypeProvider/master/docs/files/img/logo.png
+licenseUrl
+    https://github.com/plmaheu/ElasticSearchTypeProvider/plmaheu/ElasticSearchTypeProvider/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    fsharp
+summary
+    An F# type provider for ElasticSearch
+description
+    Description not set
+
+
